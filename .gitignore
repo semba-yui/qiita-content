@@ -1,0 +1,15 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/.idea/workspace.xml
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Qiita CLI
+.remote
+node_modules
